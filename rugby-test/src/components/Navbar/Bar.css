@@ -1,0 +1,87 @@
+.Bar {
+  color: white;
+  background-color: rgb(15, 13, 13);
+  opacity: 70%;
+  display: flex;
+  width: 100vw;
+  height: 130px;
+}
+
+
+.navbar-expand .navbar-nav {
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+
+.navbar-expand .navbar-nav:hover {
+  align-items: center;
+  color:rgb(255, 255, 255);
+}
+
+img {
+  width: 300px;
+  height: 90px;
+}
+
+.inside {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+a.nav-link {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  text-decoration: double;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  font-size: 20px;
+  margin: 20px;
+  align-items: center;
+}
+
+a:hover{
+  text-decoration: none;
+  color:rgb(255, 255, 255);
+}
+ .dropdown-menu {
+background-color: red;
+ }
+ .dropdown-menu a { color: white;}
+ .dropdown {
+  color:white;
+ }
+
+.navbar-expand .navbar-nav .dropdown-menu{
+  color:rgb(188, 16, 16);
+ }
+ .Drop{ color: rgb(231, 5, 5);}
+ .Drop::selection{ background-color: brown;}
+ .navbar-light .navbar-nav .active>.nav-link,
+ .navbar-light .navbar-nav .nav-link.active,
+ .navbar-light .navbar-nav .nav-link.show,
+ .navbar-light .navbar-nav .show>.nav-link{
+  color:white;
+padding: 20px;
+ }
+ .navbar-light .navbar-nav :hover>.nav-link,
+ .navbar-light .navbar-nav .nav-link.active,
+ .navbar-light .navbar-nav .nav-link.show,
+ .navbar-light .navbar-nav .show>.nav-link {
+   color: white;
+ }
+ .red{
+  width: 100vw;
+    height: 30px;
+    background-color: red;
+    position: top;
+ }

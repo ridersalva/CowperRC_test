@@ -1,0 +1,37 @@
+.foot {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    display: flex;
+    background-color: rgb(79, 77, 77);
+    justify-content: center;
+    height: 150px;
+}
+
+.social_Logo img{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-bottom: 5%;
+    height: 80px;
+    width: 80px;
+    background-color:rgb(79, 77, 77) ;
+}
+.footElements {
+    background-color: rgb(79, 77, 77);
+    display: flex;
+    width: 100%;
+   
+}
+
+.footEleMed {
+    background-color: rgb(79, 77, 77);
+    justify-content: center;
+    text-align: center;
+    color: white;
+    
+}
+.footEleMed h3{
+    margin-top: 40px;
+}
