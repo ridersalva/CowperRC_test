@@ -1,0 +1,17 @@
+.contactPic {
+    width: 650px;
+    height: 850px;
+    margin-left: 20px;
+    margin-top: 12%;
+    border-radius: 30px;
+
+
+}
+
+.contactF {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20%;
+}

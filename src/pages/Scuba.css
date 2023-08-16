@@ -1,0 +1,8 @@
+.headerScuba{
+    width: 100vw;
+    height: 25%;
+}
+.pageScuba{
+    display: flex;
+    justify-content: center;
+}
